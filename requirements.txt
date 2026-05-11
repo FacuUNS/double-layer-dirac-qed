@@ -1,0 +1,12 @@
+# Reproduction code for Arreyes et al., "Entanglement in (1+2) QED in
+# Double-Layer Honeycomb Lattices" (SciPost Physics, 2026).
+#
+# For CUDA support, install torch from https://pytorch.org/get-started/locally/
+# *before* running `pip install -r requirements.txt`, so the right CUDA-enabled
+# wheel is picked up.  The version range below is the CPU/generic fallback.
+
+numpy>=1.24,<3.0
+scipy>=1.10,<2.0
+matplotlib>=3.7,<4.0
+torch>=2.0,<3.0
+tqdm>=4.65,<5.0

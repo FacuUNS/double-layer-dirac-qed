@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following work."
+title: "Reproduction code for: Entanglement in (1+2) QED in Double-Layer Honeycomb Lattices"
+type: software
+authors:
+  - family-names: Arreyes
+    given-names: Facundo
+    affiliation: "Universidad Nacional del Sur — IFISUR — CONICET"
+    email: facundo.arreyes@uns.edu.ar
+  - family-names: Escudero
+    given-names: Federico
+    affiliation: "IMDEA Nanoscience"
+  - family-names: Gorza
+    given-names: Arián
+    affiliation: "Universidad Nacional del Sur — IFISUR — CONICET"
+  - family-names: Ardenghi
+    given-names: Juan Sebastián
+    affiliation: "Universidad Nacional del Sur — IFISUR — CONICET"
+license: MIT
+repository-code: "https://github.com/<user>/double-layer-qed-entanglement"
+preferred-citation:
+  type: article
+  title: "Entanglement in (1+2) QED in Double-Layer Honeycomb Lattices"
+  authors:
+    - family-names: Arreyes
+      given-names: Facundo
+    - family-names: Escudero
+      given-names: Federico
+    - family-names: Gorza
+      given-names: Arián
+    - family-names: Ardenghi
+      given-names: Juan Sebastián
+  journal: "SciPost Physics"
+  year: 2026
+  notes: "submitted"
